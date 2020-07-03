@@ -6,6 +6,6 @@ Permite generar a partir de una plantilla de word exportada en Html un codigo QR
 
 https://github.com/davidshimjs/qrcodejs
 
-#Demo
+# Demo
 
 https://olanaso.github.io/QR-Certificado/
